@@ -1,0 +1,4 @@
+{"id":"111", "state":"STARTED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495212}
+{"id":"111", "state":"FINISHED", "timestamp": 1491377495217}
+{"id":"112", "state":"FINISHED", "timestamp": 1491377495214}
+{"id":"112", "state":"STARTED", "type": "APPLICATION_LOG", "host": "6789", "timestamp": 1491377495212}
